@@ -1,2 +1,5 @@
-{"name":"Amenity 3",
-  "order": 3}
+{
+  "name": "24-hour front desk ",
+  "order": 3,
+  "hidden": false
+}

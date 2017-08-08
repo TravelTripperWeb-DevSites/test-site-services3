@@ -1,0 +1,16 @@
+---
+_hotel_id: DOU606
+_portal_id: required-but-empty
+_root_path: https://qa5.ttaws.com/rt
+latitude: 42.15194
+longitude: -71.48706
+name: DoubleTree by Hilton Boston - Milford
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
+address:
+  street1: 11 Beaver Street
+  street2: ''
+  state: Massachusetts
+  city: Milford
+  country: United States
+  zip_code: '01757'
